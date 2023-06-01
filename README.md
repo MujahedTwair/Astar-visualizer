@@ -3,21 +3,22 @@ This project is built to visualize how A* algorithms work to find the path from 
 # Preview
 https://github.com/MujahedTwair/Astar-visualizer/assets/135132989/1f0205f1-c677-4fc2-8f47-a0c5c1fd968e
 
-# How to Run
-To run this project on your own computer you can follow up with the following steps :
+# Running the Project
+Follow the steps below if you wish to run this project on your personal machine:
 
-Note that i am using VSCode to install and run the project.
+Please note that the following instructions use VSCode as the IDE of choice.
 
-1- Download this repository and extract the zipped file.
+Download this repository and decompress the zip file.
 
-2- Import the the extracted folder to VSCode or any other IDE.
+Import the decompressed folder into VSCode or your preferred IDE.
 
-3- Open the terminal in VScode or the CMD to download the following library:
-- pip install pygame
+Open the VSCode terminal or your command prompt to install the necessary library:
 
-- Note that if "pip install" instruction did not work then try to replace it with "py -m pip", if this doesn't work too i suggest you to refer to this article https://pages.github.com/](https://www.technewstoday.com/pip-install-not-working/
+Execute the command pip install pygame.
 
-4. Once you have done the previous steps the program is finally ready to run, Head over to the main.py file and click on the run icon.
+If the above command does not work, try substituting it with py -m pip. If neither of these options work, I recommend checking out this article: https://www.technewstoday.com/pip-install-not-working/
+
+After completing the above steps, your environment should be set up and ready to execute the program. Simply navigate to the main.py file and click the run icon to start.
 
 # Keys
 
