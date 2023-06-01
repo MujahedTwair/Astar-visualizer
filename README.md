@@ -21,6 +21,9 @@ Note that i am using VSCode to install and run the project.
 
 # Keys
 left-click mouse : select the start node then the end node then the blocking nodes.
+
 right-click mouse : to delete any node.
+
 space : start visualizing.
+
 C : clear the grid.
