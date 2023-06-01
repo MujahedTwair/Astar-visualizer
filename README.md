@@ -20,10 +20,12 @@ Note that i am using VSCode to install and run the project.
 4. Once you have done the previous steps the program is finally ready to run, Head over to the main.py file and click on the run icon.
 
 # Keys
-left-click mouse : select the start node then the end node then the blocking nodes.
 
-right-click mouse : to delete any node.
+- **Left Mouse Click**: Select the start node with the first click, the end node with the second click, and any blocking nodes with subsequent clicks.
 
-space : start visualizing.
+- **Right Mouse Click**: Delete any node (start, end, or blocking).
 
-C : clear the grid.
+- **Space Key**: Start the visualization process.
+
+- **C Key**: Clear the grid.
+
